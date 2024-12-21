@@ -4,7 +4,7 @@ I am primarily learning Analytics and Software Engineering because it has always
 
 There has been a focus on studying CSS, HTML, JavaScript, Excel, Python, and Tableau along with foundational knowledge in Jira as well as AWS along with genuine curiosity in learning new technologies beyond this. I have sales, customer service, financial services, e-commerce, and tech support background which I believe is a unique combination that seeks to understand many diverse perspectives and user personas when solving IT and business problems. 
 
-This GitHub is an ongoing work in progress. I looking forward to learning from this global community.
+This GitHub is an ongoing work in progress. I look forward to learning from this global community.
 
 <!--
 **techlobster/techlobster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
