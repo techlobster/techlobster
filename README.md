@@ -1,6 +1,6 @@
 ## Thank you for your time. Welcome to my GitHub page. 
 
-I am primarily learning Analytics and Software Engineering because it has always been interesting to listen to customers, leaders, and team members working together to create new possibilities. 
+I am primarily learning Analytics and Software Engineering because it has always been interesting to listen to customers, leaders, and team members who are working together to create new possibilities. 
 
 There has been a focus on studying CSS, HTML, JavaScript, Excel, Python, and Tableau along with foundational knowledge in Jira as well as AWS along with genuine curiosity in learning new technologies beyond this. I have sales, customer service, financial services, e-commerce, and tech support background which I believe is a unique combination that seeks to understand many diverse perspectives and user personas when solving IT and business problems. 
 
